@@ -1,0 +1,296 @@
+[
+	{
+		"group": "Сбербанк. Виртуальная школа",
+		"groupUrl": "https://open.sberbank-school.ru",
+		"imageDate": "04.04.2020",
+		"imageTitle": "Большие данные",
+		"image": "https://personalhistory.ru/certificates/sberbank-school/c5e9bc53acb111b560025658ed667175b7b7.png"
+	},
+	{
+		"group": "Сбербанк. Виртуальная школа",
+		"groupUrl": "https://open.sberbank-school.ru",
+		"imageDate": "04.04.2020",
+		"imageTitle": "Человек в цифровом мире: мозг, память и качество жизни",
+		"image": "https://personalhistory.ru/certificates/sberbank-school/22c0280c34e1c9ce0f1ac8e7e7e15aced73f.png"
+	},
+	{
+		"group": "Сбербанк. Виртуальная школа",
+		"groupUrl": "https://open.sberbank-school.ru",
+		"imageDate": "04.04.2020",
+		"imageTitle": "Человек в цифровом мире: мозг, память и качество жизни",
+		"image": "https://personalhistory.ru/certificates/sberbank-school/41716dc6ffc8bb891d095f712a4de049f982.png"
+	},
+	{
+		"group": "Сбербанк. Виртуальная школа",
+		"groupUrl": "https://open.sberbank-school.ru",
+		"imageDate": "04.04.2020",
+		"imageTitle": "Автономные системы. Искусственный интеллект и Робототехника",
+		"image": "https://personalhistory.ru/certificates/sberbank-school/08ed88e0326a2b5139ac704666e7c9538e98.png"
+	},
+
+	{
+		"group": "IBM Cognitive Class",
+		"groupUrl": "https://cognitiveclass.ai/",
+		"imageDate": "18.05.2018",
+		"imageTitle": "Machine Learning with Python",
+		"image": "https://personalhistory.ru/certificates/IBM Cognitive Class/Machine Learning with Python.pdf"
+	},
+	{
+		"group": "IBM Cognitive Class",
+		"groupUrl": "https://cognitiveclass.ai/",
+		"imageDate": "10.05.2018",
+		"imageTitle": "Python 101 for Data Science",
+		"image": "https://personalhistory.ru/certificates/IBM Cognitive Class/Python 101 for Data Science.pdf"
+	},
+	{
+		"group": "IBM Cognitive Class",
+		"groupUrl": "https://cognitiveclass.ai/",
+		"imageDate": "16.05.2018",
+		"imageTitle": "Applied Data Science with Python - Level 2 - Acclaim",
+		"image": "https://personalhistory.ru/certificates/IBM Cognitive Class/Applied Data Science with Python - Level 2 - Acclaim.pdf"
+	},
+	{
+		"group": "IBM Cognitive Class",
+		"groupUrl": "https://cognitiveclass.ai/",
+		"imageDate": "13.05.2018",
+		"imageTitle": "Data Analysis with Python",
+		"image": "https://personalhistory.ru/certificates/IBM Cognitive Class/Data Analysis with Python.pdf"
+	},
+	{
+		"group": "IBM Cognitive Class",
+		"groupUrl": "https://cognitiveclass.ai/",
+		"imageDate": "16.05.2018",
+		"imageTitle": "Data Visualization with Python",
+		"image": "https://personalhistory.ru/certificates/IBM Cognitive Class/Data Visualization with Python.pdf"
+	},
+
+	{
+		"group": "beONmax",
+		"groupUrl": "https://beonmax.com",
+		"imageDate": "03.01.2020",
+		"imageTitle": "JavaScript - полный курс с нуля до результата",
+		"image": "https://personalhistory.ru/certificates/beONmax/beonmax.pdf"
+	},
+	{
+		"group": "beONmax",
+		"groupUrl": "https://beonmax.com",
+		"imageDate": "03.01.2020",
+		"imageTitle": "JavaScript - полный курс с нуля до результата",
+		"image": "https://personalhistory.ru/certificates/beONmax/beonmax en.pdf"
+	},
+
+	{
+		"group": "SoloLearn",
+		"groupUrl": "https://www.sololearn.com/",
+		"imageDate": "15.06.2018",
+		"imageTitle": "HTML Fundamentals course",
+		"image": "https://personalhistory.ru/certificates/SoloLearn/HTML Fundamentals course.pdf"
+	},
+	{
+		"group": "SoloLearn",
+		"groupUrl": "https://www.sololearn.com/",
+		"imageDate": "16.06.2018",
+		"imageTitle": "CSS Fundamentals course",
+		"image": "https://personalhistory.ru/certificates/SoloLearn/CSS Fundamentals course.pdf"
+	},
+	{
+		"group": "SoloLearn",
+		"groupUrl": "https://www.sololearn.com/",
+		"imageDate": "15.06.2018",
+		"imageTitle": "JavaScript Tutorial course",
+		"image": "https://personalhistory.ru/certificates/SoloLearn/JavaScript Tutorial course.pdf"
+	},
+
+	{
+		"group": "GeekBrains",
+		"groupUrl": "https://geekbrains.ru",
+		"imageDate": "04.04.2020",
+		"imageTitle": "«Основы ООП» № 767431",
+		"image": "https://geekbrains.ru/certificates/767431.ru.pdf"
+	},
+	{
+		"group": "GeekBrains",
+		"groupUrl": "https://geekbrains.ru",
+		"imageDate": "04.04.2020",
+		"imageTitle": "«Основы ООП» № 767431 en",
+		"image": "https://geekbrains.ru/certificates/767431.en.pdf"
+	},
+	{
+		"group": "GeekBrains",
+		"groupUrl": "https://geekbrains.ru",
+		"imageDate": "16.11.2018",
+		"imageTitle": "«Интенсив \"Основы программирования\". Онлайн-курс» № 527275",
+		"image": "https://geekbrains.ru/certificates/527275.ru.pdf"
+	},
+	{
+		"group": "GeekBrains",
+		"groupUrl": "https://geekbrains.ru",
+		"imageDate": "16.11.2018",
+		"imageTitle": "«Интенсив \"Основы программирования\". Онлайн-курс» № 527275 en",
+		"image": "https://geekbrains.ru/certificates/527275.en.pdf"
+	},
+	{
+		"group": "GeekBrains",
+		"groupUrl": "https://geekbrains.ru",
+		"imageDate": "18.11.2018",
+		"imageTitle": "«JavaScript. Начальный уровень» № 527837",
+		"image": "https://geekbrains.ru/certificates/527837.ru.pdf"
+	},
+	{
+		"group": "GeekBrains",
+		"groupUrl": "https://geekbrains.ru",
+		"imageDate": "18.11.2018",
+		"imageTitle": "«JavaScript. Начальный уровень» № 527837 en",
+		"image": "https://geekbrains.ru/certificates/527837.en.pdf"
+	},
+	{
+		"group": "GeekBrains",
+		"groupUrl": "https://geekbrains.ru",
+		"imageDate": "18.11.2018",
+		"imageTitle": "«Python. Начальный уровень» № 527840",
+		"image": "https://geekbrains.ru/certificates/527840.ru.pdf"
+	},
+	{
+		"group": "GeekBrains",
+		"groupUrl": "https://geekbrains.ru",
+		"imageDate": "18.11.2018",
+		"imageTitle": "«Python. Начальный уровень» № 527840 en",
+		"image": "https://geekbrains.ru/certificates/527840.en.pdf"
+	},
+	{
+		"group": "GeekBrains",
+		"groupUrl": "https://geekbrains.ru",
+		"imageDate": "17.11.2019",
+		"imageTitle": "«Интенсив “Python для начинающих”. Знакомство с Python» № 677220",
+		"image": "https://geekbrains.ru/certificates/677220.ru.pdf"
+	},
+	{
+		"group": "GeekBrains",
+		"groupUrl": "https://geekbrains.ru",
+		"imageDate": "17.11.2019",
+		"imageTitle": "«Интенсив “Python для начинающих”. Знакомство с Python» № 677220 en",
+		"image": "https://geekbrains.ru/certificates/677220.en.pdf"
+	},
+	{
+		"group": "GeekBrains",
+		"groupUrl": "https://geekbrains.ru",
+		"imageDate": "17.11.2019",
+		"imageTitle": "«FreeTesting. Basic Java» № 678358",
+		"image": "https://geekbrains.ru/certificates/678358.ru.pdf"
+	},
+	{
+		"group": "GeekBrains",
+		"groupUrl": "https://geekbrains.ru",
+		"imageDate": "17.11.2019",
+		"imageTitle": "«FreeTesting. Basic Java» № 678358 en",
+		"image": "https://geekbrains.ru/certificates/678358.en.pdf"
+	},
+	{
+		"group": "GeekBrains",
+		"groupUrl": "https://geekbrains.ru",
+		"imageDate": "17.11.2019",
+		"imageTitle": "«Базовые навыки программиста. Тестировщик» № 678582",
+		"image": "https://geekbrains.ru/certificates/678582.ru.pdf"
+	},
+	{
+		"group": "GeekBrains",
+		"groupUrl": "https://geekbrains.ru",
+		"imageDate": "17.11.2019",
+		"imageTitle": "«Базовые навыки программиста. Тестировщик» № 678582 en",
+		"image": "https://geekbrains.ru/certificates/678582.en.pdf"
+	},
+	{
+		"group": "GeekBrains",
+		"groupUrl": "https://geekbrains.ru",
+		"imageDate": "17.11.2019",
+		"imageTitle": "«Java. Быстрый старт. Основы языка Java на примере разработки небольшой игры» № 678257",
+		"image": "https://geekbrains.ru/certificates/678257.ru.pdf"
+	},
+	{
+		"group": "GeekBrains",
+		"groupUrl": "https://geekbrains.ru",
+		"imageDate": "17.11.2019",
+		"imageTitle": "«Java. Быстрый старт. Основы языка Java на примере разработки небольшой игры» № 678257 en",
+		"image": "https://geekbrains.ru/certificates/678257.en.pdf"
+	},
+	{
+		"group": "GeekBrains",
+		"groupUrl": "https://geekbrains.ru",
+		"imageDate": "20.11.2019",
+		"imageTitle": "«FreeTesting. freeTesting. Основы QA» № 681529",
+		"image": "https://geekbrains.ru/certificates/681529.ru.pdf"
+	},
+	{
+		"group": "GeekBrains",
+		"groupUrl": "https://geekbrains.ru",
+		"imageDate": "20.11.2019",
+		"imageTitle": "«FreeTesting. freeTesting. Основы QA» № 681529 en",
+		"image": "https://geekbrains.ru/certificates/681529.en.pdf"
+	},
+
+	{
+		"group": "DataCamp",
+		"groupUrl": "https://www.datacamp.com",
+		"imageDate": "",
+		"imageTitle": "Intro to SQL for Data Science Course",
+		"image": "https://personalhistory.ru/certificates/DataCamp/Intro to SQL for Data Science Course.pdf"
+	},
+	{
+		"group": "DataCamp",
+		"groupUrl": "https://www.datacamp.com",
+		"imageDate": "",
+		"imageTitle": "Introduction to Git for Data Science Course",
+		"image": "https://personalhistory.ru/certificates/DataCamp/Introduction to Git for Data Science Course.pdf"
+	},
+	{
+		"group": "DataCamp",
+		"groupUrl": "https://www.datacamp.com",
+		"imageDate": "",
+		"imageTitle": "Spreadsheet Basics Course",
+		"image": "https://personalhistory.ru/certificates/DataCamp/Spreadsheet Basics Course.pdf"
+	},
+	{
+		"group": "DataCamp",
+		"groupUrl": "https://www.datacamp.com",
+		"imageDate": "",
+		"imageTitle": "Introduction to R Course",
+		"image": "https://personalhistory.ru/certificates/DataCamp/Introduction to R Course.pdf"
+	},
+	{
+		"group": "DataCamp",
+		"groupUrl": "https://www.datacamp.com",
+		"imageDate": "",
+		"imageTitle": "Data Analysis with Spreadsheets Course",
+		"image": "https://personalhistory.ru/certificates/DataCamp/Data Analysis with Spreadsheets Course.pdf"
+	},
+	{
+		"group": "DataCamp",
+		"groupUrl": "https://www.datacamp.com",
+		"imageDate": "",
+		"imageTitle": "Intro to Python for Data Science Course",
+		"image": "https://personalhistory.ru/certificates/DataCamp/Intro to Python for Data Science Course.pdf"
+	},
+
+
+	{
+		"group": "Udemy",
+		"groupUrl": "https://www.udemy.com/",
+		"imageDate": "30.11.2018",
+		"imageTitle": "Data Science, Deep Learning and Machine Learning with Python",
+		"image": "https://personalhistory.ru/certificates/Udemy/Data Science, Deep Learning and Machine Learning with Python.pdf"
+	},
+	{
+		"group": "Udemy",
+		"groupUrl": "https://www.udemy.com/",
+		"imageDate": "01.12.2018",
+		"imageTitle": "Python eCommerce - Build a Django eCommerce Web Application",
+		"image": "https://personalhistory.ru/certificates/Udemy/Python eCommerce - Build a Django eCommerce Web Application.pdf"
+	},
+	{
+		"group": "Udemy",
+		"groupUrl": "https://www.udemy.com/",
+		"imageDate": "30.11.2018",
+		"imageTitle": "The Complete Python 3 Course - Beginner to Advanced",
+		"image": "https://personalhistory.ru/certificates/Udemy/The Complete Python 3 Course - Beginner to Advanced.pdf"
+	}
+]
